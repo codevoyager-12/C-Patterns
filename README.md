@@ -1,2 +1,2 @@
-# C-Patterns
-This is a my beginning of c++patterns problem solving
+# C++-Patterns
+These are solutions of my c++ patterns problem solving
